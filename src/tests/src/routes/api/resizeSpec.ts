@@ -1,4 +1,3 @@
-import sharp from 'sharp';
 import supertest from 'supertest';
 import app from '../../../..';
 import * as fs from 'fs';
